@@ -8,8 +8,10 @@ A Mobile App for Android to take notes
 users to take notes on their moblie device. The notes are saved on the device's database via SQLite.
 The app makes queries to the database using an MVC model, allowing for these notes to be edited,
 saved, and deleted. Currently, the app uses a minimal interface that allows for the note to be 
-deleted when the note activity is open, but the app will be updated to allow for a more intuitive
-user experience that fits modern expectations.
+deleted when the note activity is open, but the app can be updated to allow for a more intuitive
+user experience that fits modern expectations that include such functions like mass deleting notes
+with touch gestures like hold or swipe. These built in functions will be explore more in depth and
+employed in future projects.
 
 ## Installation
 
