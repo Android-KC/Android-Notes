@@ -1,7 +1,7 @@
 # Android-Notes
 A Mobile App for Android to take notes
 
-![Preview]()
+![Preview](https://github.com/Android-KC/Android-Notes/blob/main/NotesPreview.gif)
 
 ## Notes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project is a sample mobile app for android that allows
@@ -16,7 +16,7 @@ employed in future projects.
 ## Installation
 
 Download the apk in the link below and install on your Android device.
-- [Notes App APK]()
+- [Notes App APK](https://github.com/Android-KC/Android-Notes/blob/main/Notes/app/release/app-release.apk)
 
 Minimum Supported Version:
 - Android 5.0 Lollipop
